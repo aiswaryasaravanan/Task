@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "first_name": "Jeffree",
+        "last_name": "Lee",
+        "occupation": "Engineer",
+        "age": 56
+    },
+    {
+        "id": 2,
+        "first_name": "Jeffin",
+        "last_name": "James",
+        "occupation": "Network Engineer",
+        "age":36
+    },
+    {
+        "id": 3,
+        "first_name": "John",
+        "last_name": "Cena",
+        "occupation": "Wrestler",
+        "age": 51
+    },
+    {
+        "id": 4,
+        "first_name": "Swathy",
+        "last_name": "Nahr",
+        "occupation": "Professor",
+        "age": 28
+    }
+]
