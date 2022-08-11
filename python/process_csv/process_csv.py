@@ -13,10 +13,10 @@ def reformat_csv(data):
     return data
 
 def write_csv(data):
-    data.to_csv("process-csv/output_py.csv", index=False)
+    data.to_csv("python/process_csv/output.csv", index=False)
 
 def main():
-    csv_path = "process-csv/input.csv"
+    csv_path = "python/process_csv/input.csv"
     input = read_csv(csv_path)
     output = reformat_csv(input)
     write_csv(output)
